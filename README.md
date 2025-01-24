@@ -3,7 +3,7 @@
 
 Este projeto é uma API RESTful desenvolvida em Java utilizando o framework Spring. Ele foi criado com objetivos de estudo, focando no desenvolvimento de uma aplicação CRUD que manipula informações de empréstimos. A API responde a requisições HTTP e retorna dados em formato JSON, sendo compatível com ferramentas como Postman ou outros aplicativos similares.
 
-Este projeto foi baseado no conceito de outro sistema chamado "Seras / Sistema de Gerenciamento de Empréstimos", que possuía uma interface visual primitiva e funcionalidades mais amplas. No entanto, esta API não possui interface gráfica e foi projetada exclusivamente para fins educativos, enfatizando o backend e a interação via API.
+Este projeto foi baseado no conceito de outro sistema chamado "Seras / Sistema de Gerenciamento de Empréstimos", que possuía uma interface visual primitiva e funcionalidades mais amplas. No entanto, esta API não possui interface gráfica e foi projetada exclusivamente para fins de estudo, enfatizando o backend e a interação via API.
 
 ---
 
